@@ -2,7 +2,9 @@ source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.3'
-
+# Authentication
+gem 'devise' 
+gem 'devise-jwt'
 # Rubocop
 gem 'rubocop'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
