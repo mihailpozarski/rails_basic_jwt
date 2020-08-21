@@ -1,2 +1,1 @@
-# unda_backend
-Backend para la aplicación de TMtecnomed
+Aplicación rails con JWT
